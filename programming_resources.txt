@@ -1,0 +1,30 @@
+https://winget.run/pkg/Microsoft/VisualStudioCode
+
+https://git-scm.com/downloads/win
+
+
+Tech world with Nana
+Javascript - https://www.youtube.com/watch?v=FtaQSdrl7YA&t=51s
+Python - https://www.youtube.com/watch?v=t8pPdKYpowI&t=12731s
+Devops - https://www.youtube.com/watch?v=1J2YOV6LcwY
+Docker - https://www.youtube.com/watch?v=3c-iBn73dDE
+Terraform (IaaS) - https://www.youtube.com/watch?v=l5k1ai_GBDE
+
+
+Free Code Camp:
+Javascript - https://www.youtube.com/watch?v=Zi-Q0t4gMC8&t=82s
+Harvard CS50 - Python - https://www.youtube.com/watch?v=nLRL_NcnK-4 
+NextJS - strapi 5 - Fullstack - https://www.youtube.com/watch?v=Q-cPtlYG1cY
+Game Development in Javascript - https://www.youtube.com/watch?v=GFO_txvwK_c
+College Algebra in Python - https://www.youtube.com/watch?v=i7vOAcUo5iA
+ReactJS - https://www.youtube.com/watch?v=x4rFhThSX04
+NodeJS - Express - https://www.youtube.com/watch?v=Oe421EPjeBE
+Nodejs 3 hrs - https://www.youtube.com/watch?v=RLtyhwFtXQA
+
+
+Web Dev Simplified: 
+Learn ExpressJS - https://www.youtube.com/watch?v=SccSCuHhOw0
+
+
+Aws Ecosystem - https://www.youtube.com/watch?v=JIbIYCM48to
+

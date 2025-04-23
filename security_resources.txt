@@ -1,0 +1,23 @@
+
+
+
+Virtual Labs:
+host a virtual lab environment - https://www.gns3.com/
+
+https://www.cisco.com/site/us/en/learn/training-certifications/training/modeling-labs/index.html
+
+
+SANS Hackathons:
+https://www.sans.org/mlp/holiday-hack-challenge-2024
+
+
+Linux distros ( security stuff ):
+https://en.wikipedia.org/wiki/Damn_Vulnerable_Linux
+Rocky Linux (Alternative to CENTOS) - https://rockylinux.org/
+Gentoo Linux - from Source - https://www.gentoo.org/
+Metasploit - https://www.metasploit.com/
+Wireshark ( Network Inspection ) - https://www.wireshark.org/
+Kali Linux - https://www.kali.org/
+
+Windows Subsystem for Linux - https://learn.microsoft.com/en-us/windows/wsl/install
+
